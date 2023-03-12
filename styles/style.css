@@ -146,12 +146,13 @@ body {
 }
 @media (max-width: 1000px) {
   .cabecalho__menu__link {
+margin: 0 -0.9rem;
     font-size: 1.3rem;
   }
   
   .cabecalho__menu {
-    display: flex;
-    justify-content: space-around;
+    
+    
   }
   .cabecalho {
     display: flex;
