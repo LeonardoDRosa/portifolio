@@ -26,6 +26,7 @@ body {
 .cabecalho {
   background: black;
   position: fixed;
+  z-index: 10;
   width: 100%;
   padding: 1.5% 0% 1.5% 23%;
 }
