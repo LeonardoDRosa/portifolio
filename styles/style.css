@@ -23,7 +23,6 @@ body {
   color: var(--cor-secundaria);
 }
 
-
 .cabecalho {
   background: black;
   position: fixed;
@@ -147,16 +146,29 @@ body {
 @media (max-width: 1000px) {
   .apresentacao {
     flex-direction: column-reverse;
-    padding: 5% 5% 5% 8%;
+    padding: 15% 5% 10% 8%;
   }
   .cabecalho__menu {
-    margin: 0% 30% 0% 0%;
+    margin: 0% 30% 0% 5.5%;
     justify-content: center;
   }
   .cabecalho {
-    padding-top: 10%;
+    display: flex;
+    background: black;
+    position: fixed;
+   z-index: 10;
+    width: 100%;
+
+    padding-top: 6%;
+    
   }
   .apresentacao__conteudo {
+  margin-top: -8%;
     width: auto;
   }
+  .apresentacao__conteudo2{
+    margin-top: -10%;
+    margin-bottom: 10%;
+  }
 }
+
