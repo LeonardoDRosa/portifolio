@@ -136,21 +136,21 @@ body {
 }
 
 .rodape {
-  padding: 18px;
+  padding: 1rem;
   color: var(--cor-primaria);
   background-color: var(--cor-terciaria);
   text-align: center;
   font-family: var(--font-secundaria);
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 400;
 }
 @media (max-width: 1000px) {
-  .apresentacao {
-    flex-direction: column-reverse;
-    padding: 15% 5% 10% 8%;
+  .cabecalho__menu__link {
+    font-size: 1.3rem;
   }
+  
   .cabecalho__menu {
-    margin: 0% 30% 0% 5.5%;
+    
     justify-content: center;
   }
   .cabecalho {
@@ -163,13 +163,21 @@ body {
     padding-top: 6%;
     
   }
+  .apresentacao {
+    flex-direction: column-reverse;
+    padding: 19% 5% 10% 8%;
+  }
   .apresentacao__conteudo {
+    
   margin-top: -8%;
     width: auto;
   }
   .apresentacao__conteudo2{
     margin-top: -10%;
-    margin-bottom: 10%;
+    margin-bottom: 2%;
+  }
+  .apresentacao__links__subtitulo{
+    font-size: 1.2rem;
   }
 }
 
