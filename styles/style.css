@@ -150,8 +150,8 @@ body {
   }
   
   .cabecalho__menu {
-    
-    justify-content: center;
+    display: flex;
+    justify-content: space-around;
   }
   .cabecalho {
     display: flex;
