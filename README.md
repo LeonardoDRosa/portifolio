@@ -16,7 +16,7 @@ Página web desenvolvida com HTML e css.
 <br>
 
 <p align="center">
-  <img alt= "portifólio" src = "previewPortifolio.png">
+  <img alt= "portifólio" src = "https://raw.githubusercontent.com/LeonardoDRosa/portifolio./main/previewPortifolio.png?token=GHSAT0AAAAAAB7MLT6LATZVUROV5Q7HLMKMZAUXVHA">
 </p>
 
 ## 🚀 Tecnologias
