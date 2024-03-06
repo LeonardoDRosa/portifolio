@@ -16,7 +16,7 @@ Página web desenvolvida com HTML e css.
 <br>
 
 <p align="center">
-  <img alt= "portifólio" src = "previewPortifolio.png">
+  <img alt= "portifólio" src = "portifoliopreview.png">
 </p>
 
 ## 🚀 Tecnologias
